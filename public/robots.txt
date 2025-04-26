@@ -1,2 +1,9 @@
-User-Agent: *
+# *
+User-agent: *
 Allow: /
+
+# Host
+Host: https://www.launchbit.in
+
+# Sitemaps
+Sitemap: https://www.launchbit.in/sitemap.xml
