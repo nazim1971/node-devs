@@ -5,7 +5,7 @@ import { ConfigProps } from "./types/config"
 const config = {
     appName: "Node-devs",
     appDescription:
-        "Helping you launch your next big idea. We take care of the technical stuff so you can focus on selling your product.",
+        "Office: House-15, Road-11, Block-E, Chandrima Model Town, Mohammadpur, Dhaka-1207, Bangladesh.",
     domainName: "www.node-devs.com",
     colors: {
         theme: "light",
